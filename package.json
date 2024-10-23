@@ -42,7 +42,7 @@
         "eslint": "^7.18.0",
         "laravel-echo": "^1.10.0",
         "object-to-formdata": "^4.1.0",
-        "pusher-js": "^7.0.2",
+        "pusher-js": "^8.3.0",
         "sweetalert2": "^9.17.2",
         "vee-validate": "^2.2.15",
         "vform": "^1.0.1",

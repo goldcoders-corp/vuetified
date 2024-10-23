@@ -920,10 +920,12 @@
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.4.tgz#15925414e0ad2cd765bfef58842f7e26a7accb24"
   integrity sha512-1HcDas8SEj4z1Wc696tH56G8OlRaH/sqZOynNNB+HF0WOeXPaxTtbYzJY2oEfiUxjSKjhCKr+MvR7dCHcEelug==
 
-"@types/ziggy-js@^0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@types/ziggy-js/-/ziggy-js-0.9.0.tgz#ca0e626290b94c6562a91ab2e633a7983d7bbac3"
-  integrity sha512-/hUu4foNeAHtHNpng5+eXyvbBRHH2IB0PtF6N8gbEazc4sNxYpYRqbRhBZ8lqf3GWmQn9SFpacKiGYRhHcwhbw==
+"@types/ziggy-js@^1.8.0":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@types/ziggy-js/-/ziggy-js-1.8.0.tgz#d440cdbc8cd8ffd405fd29aaa6181907f47b1861"
+  integrity sha512-5MIf/vogCutjZLjSqyizK/KLWKRe+ulnMdUZqrdEkG3K6/6k/UQhCGfM6WC4aGM8BQpEc+55fwSGAtEMqesDAQ==
+  dependencies:
+    ziggy-js "*"
 
 "@vue/component-compiler-utils@^3.1.0":
   version "3.2.0"
@@ -6429,6 +6431,11 @@ qs@^6.8.0:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.9.6.tgz#26ed3c8243a431b2924aca84cc90471f35d5a0ee"
   integrity sha512-TIRk4aqYLNoJUbd+g2lEdz5kLWIuTMRagAXxl78Q0RiVjAOugHmeKNGdd3cwo/ktpf9aL9epCfFqWDEKysUlLQ==
 
+qs@~6.9.7:
+  version "6.9.7"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.9.7.tgz#4610846871485e1e048f44ae3b94033f0e675afe"
+  integrity sha512-IhMFgUmuNpyRfxA90umL7ByLlgRXu6tIfKPpF5TmcfRLlLCckfP/g3IQmju6jjpu+Hh8rA+2p6A27ZSPOOHdKw==
+
 querystring-es3@^0.2.0:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/querystring-es3/-/querystring-es3-0.2.1.tgz#9ec61f79049875707d69414596fd907a4d711e73"
@@ -8461,6 +8468,13 @@ yeast@0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/yeast/-/yeast-0.1.2.tgz#008e06d8094320c372dbc2f8ed76a0ca6c8ac419"
   integrity sha1-AI4G2AlDIMNy28L47XagymyKxBk=
+
+ziggy-js@*:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/ziggy-js/-/ziggy-js-2.3.1.tgz#e1e011bbe670adb5c15155d26aa5a04dedf80fe0"
+  integrity sha512-fq/Dpio4PCg5NVjZrrP/TMBNAO6Epl5nqlT9zO4453+F6QAhsA8hVLoLAjwPMzx7HkejFcrg/XvMPAf2fXAwGA==
+  dependencies:
+    qs "~6.9.7"
 
 "ziggy@github:tightenco/ziggy":
   version "1.0.4"

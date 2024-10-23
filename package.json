@@ -14,7 +14,7 @@
         "@inertiajs/inertia": "^0.1.9",
         "@inertiajs/inertia-vue": "^0.1.4",
         "@inertiajs/progress": "^0.1.2",
-        "@mdi/font": "^4.9.95",
+        "@mdi/font": "^7.4.47",
         "@mdi/js": "^5.9.55",
         "browser-sync": "^2.26.13",
         "browser-sync-webpack-plugin": "^2.3.0",

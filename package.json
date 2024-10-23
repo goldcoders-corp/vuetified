@@ -16,7 +16,7 @@
         "@inertiajs/progress": "^0.1.2",
         "@mdi/font": "^4.9.95",
         "@mdi/js": "^5.9.55",
-        "browser-sync": "^2.26.13",
+        "browser-sync": "^2.29.3",
         "browser-sync-webpack-plugin": "^2.3.0",
         "cross-env": "^7.0.3",
         "deepmerge": "^4.2.2",

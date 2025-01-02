@@ -43,7 +43,7 @@
         "laravel-echo": "^1.10.0",
         "object-to-formdata": "^4.1.0",
         "pusher-js": "^7.0.2",
-        "sweetalert2": "^9.17.2",
+        "sweetalert2": "^11.15.5",
         "vee-validate": "^2.2.15",
         "vform": "^1.0.1",
         "vue-axios": "^2.1.5",
